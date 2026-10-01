@@ -69,9 +69,9 @@ Open-source technologies form the backbone of self-hosted catalog master systems
 
 ### Top Open-Source Repositories
 
-The table below lists the top open-source projects used in digital asset syndication pipelines, sorted by GitHub star count in descending order:
+The table below lists the top open-source projects used in digital asset syndication pipelines, sorted by GitHub Stars_Count in descending order:
 
-| 📦 Repository | ⭐ GitHub Stars | 🎯 Primary Category | 📝 Description & Syndication Role |
+| 📦 Repository | ⭐ GitHub_Stars | 🎯 Primary Category | 📝 Description & Syndication Role |
 | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** | [![n8n Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | Workflow Automation | Fair-code workflow automation tool to connect PIM APIs, map catalog schemas, and push updates to marketplace endpoints. |
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Medusa Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | Headless Commerce | Open-source Node.js commerce engine with modular channel plugins for custom feed creation. |
@@ -139,3 +139,12 @@ Thank you for exploring and utilizing this curated open-source e-commerce resour
 ---
 
 **Made with ❤️ for E-commerce Ops, PIM Managers, Marketplace Strategists, and Integration Engineers.**
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Digital-Asset-Syndication&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Digital-Asset-Syndication_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Digital-Asset-Syndication_growth.svg">
+  </picture>
+</a>
