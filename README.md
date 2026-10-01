@@ -7,9 +7,12 @@
 **Curated List of Enterprise SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on Product Feed Management, Marketplace Syndication, Channel Listing, PIM-to-Channel Distribution & E-commerce Catalog Syndication.*
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
 **Last updated: October 2026**
 
 ---
@@ -31,6 +34,8 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
   - [Top Open-Source Repositories](#top-open-source-repositories)
   - [Architectural Patterns for Open Syndication](#architectural-patterns-for-open-syndication)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -106,6 +111,22 @@ Contributions are welcome to keep this list current and comprehensive!
 2. Add or update entries in `README.md` following the standardized table structure.
 3. Ensure all links point directly to official documentation or primary GitHub repos.
 4. Open a **Pull Request** with a clear explanation of your changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring and utilizing this curated open-source e-commerce resource! If you find this repository helpful for your projects, business, or team, please consider supporting the project:
+
+- 🌟 **Star this repository** on GitHub to increase its visibility.
+- 🔀 **Fork & Share** it with colleagues, developers, and e-commerce ops teams.
+- ☕ **Buy Me a Coffee / Sponsor**: Consider sponsoring development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Asset-Syndication&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Asset-Syndication&type=date&legend=top-left)
 
 ---
 
